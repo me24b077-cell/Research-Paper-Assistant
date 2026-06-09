@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Assistant",
+  "description": "An AI-powered workspace to ingest, classify, synthesize, and archive research papers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
